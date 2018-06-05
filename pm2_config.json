@@ -1,0 +1,8 @@
+{
+  "apps" : [{
+    "name": "telegram_proxy",
+    "script": "server.js",
+    "env": {},
+    "args" : "--port 1080"
+  }]
+}
