@@ -1,1 +1,1 @@
-pm2 delete server.js && pm2 start server.js && pm2 save
+pm2 delete pm2_config.json && pm2 start pm2_config.json && pm2 save
